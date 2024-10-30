@@ -15,3 +15,24 @@ I decided to try myself in front-end development. \
  + diligence
  + attentiveness
  + learning ability
+    
+### Skills
++ Git-Hub
++ HTML
++ Photoshop
++ CorelDrow
+
+### Examples of completed tasks
+    My CV
+### Code example
+#### Frome CODEWARS
+    function greet() {
+    return "hello world!";
+    }    
+
+### Education
+Ural Mining University
++ _specialty mining engineer_
+
+### Languages
+A2 entry level
