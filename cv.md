@@ -1,5 +1,6 @@
 # rsschool-cv
 ## Mariya Pudovkina
+![My photo](https://avatars.githubusercontent.com/u/181183117?s=400&u=b38713d02e7afca4485e8fde4f93ef885eda75f9&v=4)
 ### My Contacts
 * *Phone: +79220413553*
 * *E-mail: mariya_pudovkina@mail.ru*
