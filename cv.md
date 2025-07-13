@@ -36,5 +36,4 @@ Lead Specialist at Uralnedra: geological surveys,
 resource estimation, project supervision, and 
 regulatory compliance for mineral exploration.
 ### Hobbies
-Reading books, Reportage photography,
-ski sport
+Reading books, Reportage photography
