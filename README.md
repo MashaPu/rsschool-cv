@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MashaPu.github.io/rsschool-cv/cv
